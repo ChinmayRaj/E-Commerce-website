@@ -81,8 +81,8 @@ fetchProductData();
         <p className='border px-5 py-3 text-sm'>Reviews(122)</p>
        </div>
        <div className='flex flex-col gap-4 border px-6 py-6 text-sm text-gray-500 '>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur voluptatem fuga quaerat, necessitatibus dolorum aliquam reiciendis tempora id beatae! Quos accusamus facilis iusto voluptates commodi!</p>
-         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui aperiam, illo quaerat eaque magnam dicta totam, odit ab deserunt ipsam officiis tenetur, vitae quibusdam error?</p>
+        <p>Elevate your style with the {productData.name}. This type of clothing, is designed for various occasions or use, e.g., "office wear, evening outings, and everything in between". Featuring "a slim fit, notched lapels, and a single-button closure", this piece offers a timeless silhouette with a modern twist.</p>
+         <p>{productData.description}</p>
        </div>
       </div>
       <RelatedProducts category={productData.category} subCategory={productData.subCategory} />

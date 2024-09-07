@@ -9,7 +9,7 @@ const Footer = () => {
       <div>
         <img src={assets.logo} alt="loading..." className="mb-5 w-32" />
         <p className='w-full md:w-2/3 text-gray-600'>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quos, quidem modi? Incidunt saepe natus voluptatem tempore ad vero dolor quo Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vel, architecto!
+        Discover fashion that fits your style and personality. At Enchant, we offer high-quality, trendy clothing designed to make you look and feel your best. Explore our collections and stay connected with us for exclusive offers and the latest arrivals. Your style, our passion.
         </p>
       </div>
       <div>
@@ -25,7 +25,7 @@ const Footer = () => {
 <div>
     <p className='text-xl font-medium mb-5'>GET IN TOUCH</p>
     <ul className='flex flex-col gap-1 text-gray-600'>
-        <li>+91-6396276378</li>
+        <li>+91-6396277878</li>
         <li>chinmayshah2002@gmail.com</li>
     </ul>
 </div>
