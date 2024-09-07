@@ -1,8 +1,19 @@
-# React + Vite
+Welcome to the E-Commerce Website , Enchant for Clothing! This is a full-featured online store where users can browse, search, and purchase clothing items. The website is built using modern web technologies and follows best practices for responsive and user-friendly design.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Usage
+Browsing Products: Navigate to the home page to view featured products or use the navigation menu to browse by categories.
+Searching: Use the search bar to find specific items.
+Adding to Cart: Click on a product to view details and add it to your shopping cart.
+Checkout: Once items are in the cart, proceed to checkout to complete the purchase.
+Order History: After logging in, go to the user dashboard to view past orders and their statuses.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Technologies Used-:
+HTML
+CSS
+JavaScript
+React.js
+Tailwind CSS
+
+
+Demo link- https://e-commerce-website-q376.onrender.com
