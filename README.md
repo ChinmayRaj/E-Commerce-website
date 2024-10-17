@@ -46,7 +46,7 @@ Database: MongoDB
 
 
 6.Installation
-Clone the Repository: git clone https://github.com/your-username/your-project-name.git
+Clone the Repository: git clone https://github.com/ChinmayRaj/E-Commerce-website.git
 Install Dependencies:
 cd your-project-name
 npm install
