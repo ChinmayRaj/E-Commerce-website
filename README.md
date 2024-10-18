@@ -29,29 +29,35 @@ Payment gateway integration (e.g., Stripe, RazorPay)
 Email notifications (e.g., order confirmation, shipping updates)
 
 4.Technology Stack:
+
 4.1. Frontend: React.js for building interactive user interfaces
 Components for product listings, shopping cart, checkout, etc.
 State management using Redux or Context API
+
 4.2. Backend: Node.js and Express.js for handling server-side logic
 API endpoints for user authentication, product management, order processing, etc.
 Database interactions using MongoDB
+
 4.3. Database: MongoDB for storing product data, user information, orders, and other relevant data
 Schemas for products, users, orders, etc.
 Efficient querying and data retrieval
 
 5.Technologies Used:
+
 Frontend: React.js, JavaScript, CSS
 Backend: Node.js, Express.js
 Database: MongoDB
 
 
 6.Installation
+
 Clone the Repository: git clone https://github.com/ChinmayRaj/E-Commerce-website.git
 Install Dependencies:
 cd your-project-name
 npm install
 
 7.Running the Project
+
 7.1.Start the Backend Server:
 cd backend
 nodemon server
